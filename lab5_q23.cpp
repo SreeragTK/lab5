@@ -11,7 +11,7 @@ cout<<"Enter a natural number, n=";cin>>a;
 
 //looping
 
-while(a<=b){
+while(a>=b){
 cout<<"the numbers are: "<<a<<"1\n"; 
 a--;}
 return 0;
