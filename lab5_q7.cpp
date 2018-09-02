@@ -4,12 +4,12 @@ using namespace std;
 //include main function
 int main(){
 //include variables
-char a;
+char ab;
 //assign value to the variable
 cout<<"Enter something:";
-cin>>a;
+cin>>ab;
 //apply conditions
-if (a>=('a'or'A') or a<=('z'or 'Z'))
+if ((ab>='a'&& ab<='z') || (ab>='A' && ab<'Z'))
 {cout<<"The entered things only related to alphabets";}
 else
 {cout<<"the entered things include non-alphabets";}
