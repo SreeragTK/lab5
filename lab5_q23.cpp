@@ -12,7 +12,7 @@ cout<<"Enter a natural number, n=";cin>>a;
 //looping
 
 while(a>=b){
-cout<<"the numbers are: "<<a<<"1\n"; 
+cout<<"the numbers are: "<<a<<"\n"; 
 a--;}
 return 0;
 }
